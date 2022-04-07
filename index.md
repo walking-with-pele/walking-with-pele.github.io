@@ -59,5 +59,4 @@ Logged-in users are also given the ability to create and define "Spots" to share
 *Walking with Pele* is designed, implemented, and maintained by the combined efforts of Hyuma Tsuchiya, Don Maddock, Kai He, Zhixin Li, and Joshua Rico.
 
 - [Team Contract](https://docs.google.com/document/d/14qmEBdDGsJFoggl1_zcuq7dORanDT3HtZ3sc19qAK7Y/edit?usp=sharing)
-
 - [GitHub Organization](https://github.com/walking-with-pele)
