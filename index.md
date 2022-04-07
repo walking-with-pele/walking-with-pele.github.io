@@ -16,21 +16,9 @@ This page greets the user.
 
 This application provides a few pages that present its database.
 
-The "Top Spots" page shows the "Spots" or locations that have the highest likes based on User review:
+The "Top Spots" page shows the "Spots" or locations that have the highest likes based on User review. The "Beaches" page shows the defined beaches. The "Hikes" page shows the defined hikes. The "Activities" page shows the defined activities:
 
-image of the "Top Spots" page
-
-The "Beaches" page shows the defined beaches:
-
-image of the "Beaches" page
-
-The "Hikes" page shows the defined hikes:
-
-image of the "Hikes" page
-
-The "Activities" page shows the defined activities:
-
-image of the "Activities" page
+![](images/beaches-mockup.png)
 
 ### Sign in and Sign up
 
@@ -50,10 +38,18 @@ After the user has logged in, they are taken to the home page, which is quite si
 
 ### User Page
 
+This page contains basic information about a user such as their Name, along with the "Spots" they have visited and reviewed.
 
+![](images/user-page.png)
+
+### Spot Page
+
+This page contains basic information about a "Spot" such as the location name, address, reviews, and activities associated with it.
+
+![](images/location-sample-page.png)
 
 ### Add Spot Page
 
 Logged-in users are also given the ability to create and define "Spots" to share with other users.
 
-image of the "Add Spot"
+![](images/add-spot.png)
