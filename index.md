@@ -10,7 +10,7 @@ This section showcases the application's user interface along with its capabilit
 
 This page greets the user.
 
-image of the "Landing Page"
+![](images/go-hawaii-landing-page.png)
 
 ### Index Pages (Top Spots, Beaches, Hikes, Activities)
 
@@ -36,22 +36,24 @@ image of the "Activities" page
 
 By clicking on the "Login" button, users have the option to either "Sign in" or "Sign up". If the user already has an account, they may choose "Sign in" and will be brought to the following page to do so:
 
-image of the "Sign in" page
+![](images/signin.png)
 
 If the user does not have an account, they may choose "Sign up" to register their own account and will be brought to the following page accordingly:
 
-image of the "Sign up" page
+![](images/signup.png)
 
 ### Home Page
 
 After the user has logged in, they are taken to the home page, which is quite similar to that of the "Landing" page with the inclusion of the NavBar.
 
-image of the "Home" page
+![](images/go-hawaii-landing-page.png)
+
+### User Page
+
+
 
 ### Add Spot Page
 
 Logged-in users are also given the ability to create and define "Spots" to share with other users.
 
 image of the "Add Spot"
-
-
