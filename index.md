@@ -10,7 +10,7 @@ This section showcases the application's user interface along with its capabilit
 
 This page greets the user.
 
-![](images/go-hawaii-landing-page.png)
+![](images/landing-page-wwp.png)
 
 ### Index Pages (Top Spots, Beaches, Hikes, Activities)
 
