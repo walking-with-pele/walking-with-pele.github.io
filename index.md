@@ -1,11 +1,24 @@
 ## Table of Contents
-
 * [Overview](#overview)
+* [User Guide](#user-guide-with-page-mockups-and-sample-pages)
+    * [Index Pages](#index-pages-spot-of-the-day-list-spots)
+    * [Sign Up / Sign In Pages](#sign-in-and-sign-up)
+    * [Home Page](#home-page)
+    * [Add Spot Page](#add-spot-page)
+    * [User Page](#user-page)
+    * [Spot Page](#spot-page)
 * [Team](#team)
+    * [Team Contract](#team)
+    * [GitHub Organization](#team)
+    * [M1 Project Page](#team)
+    * [M2 Project Page](#team)
+    * [Deployment](#team)
+
 
 ## Overview
 
 *Walking with Pele* is a web application that will provide a portal for students in search of adventure. Oahu contains a multitude of experiences for individuals to encounter. This web application will enable students to find new experiences on Oahu while also sharing their own for others to see. By doing so, the application will build upon itself in a way that it will provide new paths for new students to follow.
+
 
 ## User Guide (with Page Mockups and Sample Pages)
 
@@ -45,6 +58,12 @@ After the user has logged in, they are taken to the home page, which is quite si
 
 ![](images/home-page-wwp.png)
 
+### Add Spot Page
+
+Logged-in users are also given the ability to create and define "Spots" to share with other users.
+
+![](images/add-spot.png)
+
 ### User Page
 
 This page contains basic information about a user such as their Name, along with the "Spots" they have visited and reviewed.
@@ -57,11 +76,7 @@ This page contains basic information about a "Spot" such as the location name, a
 
 ![](images/location-sample-page.png)
 
-### Add Spot Page
 
-Logged-in users are also given the ability to create and define "Spots" to share with other users.
-
-![](images/add-spot.png)
 
 ## Team
 
