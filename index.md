@@ -10,31 +10,35 @@ This section showcases the application's user interface along with its capabilit
 
 This page greets the user.
 
-![](images/landing-page-wwp.png)
+![](images/landing-page-wwp2.png)
 
-### Index Pages (Top Spots, Beaches, Hikes, Activities)
+### Index Pages (Spot of the Day, List Spots)
 
 This application provides a few pages that present its database.
 
-The "Top Spots" page shows the "Spots" or locations that have the highest likes based on User review. The "Beaches" page shows the defined beaches. The "Hikes" page shows the defined hikes. The "Activities" page shows the defined activities:
+The "Spot of the Day" page recommends a "Spot" for users to check-out. This page also allows Users to hold conversations with others in regard to the Spot:
 
-![](images/beaches-mockup.png)
+![](images/random-spot.png)
+
+The "List Spots" page allows users to see all the Spots added to the application and all of their information. There will also be a search function implemented that will allow users to filter through Spots given certain requirements.
+
+![](images/list-spots.png)
 
 ### Sign in and Sign up
 
 By clicking on the "Login" button, users have the option to either "Sign in" or "Sign up". If the user already has an account, they may choose "Sign in" and will be brought to the following page to do so:
 
-![](images/signin.png)
+![](images/sign-in-wwp.png)
 
 If the user does not have an account, they may choose "Sign up" to register their own account and will be brought to the following page accordingly:
 
-![](images/signup.png)
+![](images/sign-up-wwp.png)
 
 ### Home Page
 
 After the user has logged in, they are taken to the home page, which is quite similar to that of the "Landing" page with the inclusion of the NavBar.
 
-![](images/go-hawaii-landing-page.png)
+![](images/home-page-wwp.png)
 
 ### User Page
 
@@ -61,4 +65,5 @@ Logged-in users are also given the ability to create and define "Spots" to share
 - [Team Contract](https://docs.google.com/document/d/14qmEBdDGsJFoggl1_zcuq7dORanDT3HtZ3sc19qAK7Y/edit?usp=sharing)
 - [GitHub Organization](https://github.com/walking-with-pele)
 - [M1 Project Page](https://github.com/orgs/walking-with-pele/projects/1)
+- [M2 Project Page](https://github.com/orgs/walking-with-pele/projects/2)
 - [Deployment](http://164.92.154.253/)
