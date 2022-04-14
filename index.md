@@ -61,3 +61,4 @@ Logged-in users are also given the ability to create and define "Spots" to share
 - [Team Contract](https://docs.google.com/document/d/14qmEBdDGsJFoggl1_zcuq7dORanDT3HtZ3sc19qAK7Y/edit?usp=sharing)
 - [GitHub Organization](https://github.com/walking-with-pele)
 - [M1 Project Page](https://github.com/orgs/walking-with-pele/projects/1)
+- [Deployment](http://164.92.154.253/)
