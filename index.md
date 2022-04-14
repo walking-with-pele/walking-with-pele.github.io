@@ -86,4 +86,4 @@ This page contains basic information about a "Spot" such as the location name, a
 - [GitHub Organization](https://github.com/walking-with-pele)
 - [M1 Project Page](https://github.com/orgs/walking-with-pele/projects/1)
 - [M2 Project Page](https://github.com/orgs/walking-with-pele/projects/2)
-- [Deployment](http://164.92.154.253/)
+- [Deployment](https://walking-with-pele.xyz/)
