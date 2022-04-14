@@ -68,7 +68,7 @@ Logged-in users are also given the ability to create and define "Spots" to share
 
 This page contains basic information about a user such as their Name, along with the "Spots" they have visited and reviewed.
 
-![](images/user-page.png)
+![](images/user-profile-wwp.png)
 
 ### Spot Page
 
