@@ -62,7 +62,7 @@ After the user has logged in, they are taken to the home page, which is quite si
 
 Logged-in users are also given the ability to create and define "Spots" to share with other users.
 
-![](images/add-spot.png)
+![](images/add-spot-wwp.png)
 
 ### User Page
 
