@@ -8,15 +8,15 @@
     * [Add Spot Page](#add-spot-page)
     * [User Page](#user-page)
     * [Spot Page](#spot-page)
-* [Community Feed](#community-feedback)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
   * [Installation](#installation)
 * [Team](#team)
     * [Deployment](#team)
-    * [GitHub Organization](#team)
     * [M1 Project Page](#team)
     * [M2 Project Page](#team)
     * [M3 Project Page](#team)
+    * [GitHub Organization](#team)
     * [Team Contract](#team)
 
 
@@ -97,8 +97,35 @@ This page contains basic information about a "Spot" such as the location name, a
 
 ## Community Feedback
 
-This is a summary of the feedback from the University of Hawaii at Manoa community.
+This following is a summary of the feedback from the University of Hawaii at Manoa community. Additionally, if you would like to give your own feedback on the application, please fill out this [form](https://forms.gle/54ZjE1mrfrv1hMre7).
 
+![](images/comm-feedback-1.png)
+ Scale: 1 (Highly Disagree) - 5 (Highly Agree)
+---
+![](images/comm-feedback-2.png)
+Scale: 1 (Highly Disagree) - 5 (Highly Agree)
+---
+![](images/comm-feedback-3.png)
+Scale: 1 (Highly Disagree) - 5 (Highly Agree)
+---
+![](images/comm-feedback-4.png)
+
+---
+![](images/comm-feedback-5.png)
+Scale: 1 (Highly Disagree) - 5 (Highly Agree)
+---
+![](images/comm-feedback-6.png)
+
+---
+![](images/comm-feedback-7.png)
+1 (Very Bad) - 5 (Very Good)
+---
+![](images/comm-feedback-8.png)
+
+---
+![](images/comm-feedback-9.png)
+
+---
 ## Developer Guide
 
 This section provides information about how to use our code for their own projects.
@@ -131,8 +158,8 @@ The application should appear at [https://localhost:3000](https://localhost:3000
 *Walking with Pele* is designed, implemented, and maintained by the combined efforts of Hyuma Tsuchiya, Don Maddock, Kai He, Zhixin Li, and Joshua Rico.
 
 - [Deployment](https://walking-with-pele.xyz/)
-- [GitHub Organization](https://github.com/walking-with-pele)
 - [M1 Project Page](https://github.com/orgs/walking-with-pele/projects/1)
 - [M2 Project Page](https://github.com/orgs/walking-with-pele/projects/2)
 - [M3 Project Page](http://github.com/orgs/walking-with-pele/projects/3)
 - [Team Contract](https://docs.google.com/document/d/14qmEBdDGsJFoggl1_zcuq7dORanDT3HtZ3sc19qAK7Y/edit?usp=sharing)
+- [GitHub Organization](https://github.com/walking-with-pele)
