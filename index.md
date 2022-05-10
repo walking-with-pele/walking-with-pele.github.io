@@ -153,6 +153,7 @@ The application should appear at [https://localhost:3000](https://localhost:3000
 
 *Walking with Pele* is designed, implemented, and maintained by the combined efforts of Hyuma Tsuchiya, Don Maddock, Kai He, Zhixin Li, and Joshua Rico.
 
+![ci-badge](https://github.com/walking-with-pele/walking-with-pele/workflows/ci-walking-with-pele/badge.svg)
 - [Deployment](https://walking-with-pele.xyz/)
 - [M1 Project Page](https://github.com/orgs/walking-with-pele/projects/1)
 - [M2 Project Page](https://github.com/orgs/walking-with-pele/projects/2)
