@@ -116,7 +116,7 @@ Scale: 1 (Highly Disagree) - 5 (Highly Agree)
 ![](images/comm-feedback-6.png)
 
 ![](images/comm-feedback-7.png)
-1 (Very Bad) - 5 (Very Good)
+Scale: 1 (Very Bad) - 5 (Very Good)
 
 ![](images/comm-feedback-8.png)
 
