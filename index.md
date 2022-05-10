@@ -101,24 +101,29 @@ This following is a summary of the feedback from the University of Hawaii at Man
 
 ![](images/comm-feedback-1.png)
  Scale: 1 (Highly Disagree) - 5 (Highly Agree)
+
 ---
 ![](images/comm-feedback-2.png)
 Scale: 1 (Highly Disagree) - 5 (Highly Agree)
+
 ---
 ![](images/comm-feedback-3.png)
 Scale: 1 (Highly Disagree) - 5 (Highly Agree)
+
 ---
 ![](images/comm-feedback-4.png)
 
 ---
 ![](images/comm-feedback-5.png)
 Scale: 1 (Highly Disagree) - 5 (Highly Agree)
+
 ---
 ![](images/comm-feedback-6.png)
 
 ---
 ![](images/comm-feedback-7.png)
-1 (Very Bad) - 5 (Very Good)
+1 (Very Bad) - 5 (Very Good
+
 ---
 ![](images/comm-feedback-8.png)
 
