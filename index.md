@@ -11,13 +11,14 @@
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
   * [Installation](#installation)
+* [Development History](#development-history)
+  * [M1 Project Page](#development-history)
+  * [M2 Project Page](#development-history)
+  * [M3 Project Page](#development-history)
+  * [Deployment](#development-history)
 * [Team](#team)
-    * [Deployment](#team)
-    * [M1 Project Page](#team)
-    * [M2 Project Page](#team)
-    * [M3 Project Page](#team)
-    * [GitHub Organization](#team)
     * [Team Contract](#team)
+    * [GitHub Organization](#team)
 
 
 ## Overview
@@ -149,14 +150,28 @@ $ meteor npm run start
 
 The application should appear at [https://localhost:3000](https://localhost:3000).
 
+## Development History
+
+Our project was developed through the practice of [Issue Drive Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/), which the following Milestones were created:
+
+### Milestone 1: Initial Development
+As shown in [M1 Project Page](https://github.com/orgs/walking-with-pele/projects/1), the project began with initial ideas and HTML mockups to reflect it. 
+
+### Milestone 2: Integration of Data Models
+As ideas were solidified, for [M2 Project Page](https://github.com/orgs/walking-with-pele/projects/2), we began to integrate the use of Data Models into the application.
+
+### Milestone 3: Final Adjustments
+Lastly for [M3 Project Page](http://github.com/orgs/walking-with-pele/projects/3), we implemented final adjustments to ensure a better user experience.
+
+### Deployment
+
+You can visit our application with the following link: [Walking with Pele](https://walking-with-pele.xyz/).
+
+![ci-badge](https://github.com/walking-with-pele/walking-with-pele/workflows/ci-walking-with-pele/badge.svg)
+
 ## Team
 
 *Walking with Pele* is designed, implemented, and maintained by the combined efforts of Hyuma Tsuchiya, Don Maddock, Kai He, Zhixin Li, and Joshua Rico.
 
-![ci-badge](https://github.com/walking-with-pele/walking-with-pele/workflows/ci-walking-with-pele/badge.svg)
-- [Deployment](https://walking-with-pele.xyz/)
-- [M1 Project Page](https://github.com/orgs/walking-with-pele/projects/1)
-- [M2 Project Page](https://github.com/orgs/walking-with-pele/projects/2)
-- [M3 Project Page](http://github.com/orgs/walking-with-pele/projects/3)
 - [Team Contract](https://docs.google.com/document/d/14qmEBdDGsJFoggl1_zcuq7dORanDT3HtZ3sc19qAK7Y/edit?usp=sharing)
 - [GitHub Organization](https://github.com/walking-with-pele)
